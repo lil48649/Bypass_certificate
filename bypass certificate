@@ -1,15 +1,15 @@
 #网易云
-host-suffix, music.126.net, direct
+host-suffix, music.126.net
 #绕过企业证书过期
-host, ocsp.apple.com, reject
-host, world-gen.g.aaplimg.com, reject
-host, gdmf.apple.com, reject
-host, mesu.apple.com, reject
-host, ocsp.int-x3.letsencrypt.org, reject
+host, ocsp.apple.com
+host, world-gen.g.aaplimg.com
+host, gdmf.apple.com
+host, mesu.apple.com
+host, ocsp.int-x3.letsencrypt.org
 
 #屏蔽系统更新
-host, ns.itunes.apple.com, reject
-host, appldnld.apple.com, reject
-host, mesu.apple.com, reject
-host, xp.apple.com, reject
-host, gdmf.apple.com, reject
+host, ns.itunes.apple.com
+host, appldnld.apple.com
+host, mesu.apple.com
+host, xp.apple.com
+host, gdmf.apple.com
